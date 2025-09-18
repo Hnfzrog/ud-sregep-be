@@ -139,7 +139,7 @@ class ClusterRoute(Base):
 
     location = relationship("Location", passive_deletes=True)
 
-
+#hahahaha
 class DailyPengepul(Base):
     __tablename__ = "daily_pengepul"
 
